@@ -33,7 +33,7 @@ FOOTBALL_DATA_API_KEY=your_api_key_here
 node server.js
 Server will start at: http://localhost:3000
 ```
-6. Open the Frontend
+5. Open the Frontend
 Navigate to the frontend/ folder and open index.html in your browser.
 
 Make sure the backend is running before opening the frontend.
