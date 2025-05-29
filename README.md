@@ -37,3 +37,5 @@ Server will start at: http://localhost:3000
 Navigate to the frontend/ folder and open index.html in your browser.
 
 Make sure the backend is running before opening the frontend.
+
+![image](https://github.com/user-attachments/assets/6c75ecee-98a2-4c39-986c-03e56667eedd)
